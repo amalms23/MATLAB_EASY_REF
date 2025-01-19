@@ -1,5 +1,9 @@
 # MATLAB_EASY_REF
 some most used matlab functions for my personal reference. Others also may use:))
+
+Read through - you will find the details of all the files in this repo.
+
+
 # Finding Asymptotes of x vs. P
 
 This code uses MATLAB's Symbolic Math Toolbox to analytically find the vertical and horizontal asymptotes of the relationship between variables *x* and *P*, defined by the equation: x = ε * P / (2kL - P)
